@@ -6,8 +6,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using SeuProjetoNET.Data; // <<<< AJUSTE PARA O NAMESPACE DO SEU AppDbContext (ex: gsApi.data)
-using SeuProjetoNET.Middleware; // Ajuste para o namespace do seu middleware (ex: gsApi.middleware)
+using gsApi.data; // <<<< AJUSTE PARA O NAMESPACE DO SEU AppDbContext (ex: gsApi.data)
+using gsApi.middleware; // Ajuste para o namespace do seu middleware (ex: gsApi.middleware)
 using System;
 using System.IO;
 using System.Reflection;

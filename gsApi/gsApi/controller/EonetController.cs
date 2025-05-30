@@ -2,16 +2,16 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SeuProjetoNET.DTOs.Request;
-using SeuProjetoNET.DTOs.Response; // Para EonetResponseDto e os DTOs da NASA
-using SeuProjetoNET.Exceptions;
+using gsApi.dto.request;
+using gsApi.dto.response; // Para EonetResponseDto e os DTOs da NASA
+using gsApi.exceptions;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SeuProjetoNET.Controller
+namespace gsApi.controller
 {
     [ApiController]
     [Route("api/eonet")]

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Collections.Generic; // Adicionado para ICollection
 
-namespace SeuProjetoNET.Models // Certifique-se que o namespace corresponde ao seu projeto
+namespace gsApi.model // Ajuste para o namespace desejado (ex: gsApi.model)
 {
     [Table("tb_cliente3")]
     public class Cliente

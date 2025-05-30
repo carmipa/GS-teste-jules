@@ -2,13 +2,13 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SeuProjetoNET.DTOs.Response; // Para CategoryCountDto
+using gsApi.dto.response; // Para CategoryCountDto
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Threading.Tasks;
 
-namespace SeuProjetoNET.Controller
+namespace gsApi.controller
 {
     [ApiController]
     [Route("api/stats")]

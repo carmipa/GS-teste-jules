@@ -2,12 +2,12 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SeuProjetoNET.DTOs.Request; // Para UserAlertRequestDto
-using SeuProjetoNET.Exceptions;    // Para RecursoNaoEncontradoException
+using gsApi.dto.request; // Para UserAlertRequestDto
+using gsApi.exceptions;    // Para RecursoNaoEncontradoException
 using System;
 using System.Threading.Tasks;
 
-namespace SeuProjetoNET.Controller
+namespace gsApi.controller
 {
     [ApiController]
     [Route("api/alerts")]

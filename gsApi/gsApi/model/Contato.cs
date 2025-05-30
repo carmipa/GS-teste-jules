@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Collections.Generic; // Adicionado para ICollection
 using System.Text.Json.Serialization;
 
-namespace SeuProjetoNET.Models // Certifique-se que o namespace corresponde ao seu projeto
+namespace gsApi.model // Certifique-se que o namespace corresponde ao seu projeto
 {
     [Table("tb_contato3")]
     public class Contato

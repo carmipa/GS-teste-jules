@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Collections.Generic; // Para ICollection
 using System.Text.Json.Serialization;
 
-namespace SeuProjetoNET.Models // Certifique-se que o namespace corresponde ao seu projeto
+namespace gsApi.model // Certifique-se que o namespace corresponde ao seu projeto
 {
     [Table("tb_eonet3")]
     public class EonetEvent
