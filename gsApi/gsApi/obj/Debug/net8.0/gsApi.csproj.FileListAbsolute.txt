@@ -1,0 +1,8 @@
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.csproj.AssemblyReference.cache
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.AssemblyInfoInputs.cache
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.AssemblyInfo.cs
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.csproj.CoreCompileInputs.cache
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.MvcApplicationPartsAssemblyInfo.cs
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\FIAP-2025\1_semestre_fiap-2025\GS_FIAP_2025_1SM\Advanced_Business_Development_with.NET\gsApi\gsApi\obj\Debug\net8.0\gsApi.sourcelink.json
