@@ -2,15 +2,15 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SeuProjetoNET.DTOs.Request;
-using SeuProjetoNET.DTOs.Response;
-using SeuProjetoNET.Exceptions;
+using gsApi.dto.request;
+using gsApi.dto.response;
+using gsApi.exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SeuProjetoNET.Controller
+namespace gsApi.controller
 {
     [ApiController]
     [Route("api/enderecos")]

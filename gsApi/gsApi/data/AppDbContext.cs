@@ -1,9 +1,9 @@
 ﻿// File: gsApi/data/AppDbContext.cs
 using Microsoft.EntityFrameworkCore;
-using SeuProjetoNET.Models; // Ajuste para o namespace dos seus modelos (ex: gsApi.model)
+using gsApi.model; // Ajuste para o namespace dos seus modelos (ex: gsApi.model)
 using System.Collections.Generic;
 
-namespace SeuProjetoNET.Data // Ajuste para o namespace desejado (ex: gsApi.data)
+namespace gsApi.data // Ajuste para o namespace desejado (ex: gsApi.data)
 {
     public class AppDbContext : DbContext
     {
